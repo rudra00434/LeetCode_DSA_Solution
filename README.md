@@ -24,4 +24,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
