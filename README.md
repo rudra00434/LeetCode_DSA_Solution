@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +98,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
