@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
