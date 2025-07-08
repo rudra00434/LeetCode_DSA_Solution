@@ -35,6 +35,7 @@
 | [0009-palindrome-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
