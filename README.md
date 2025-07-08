@@ -33,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
