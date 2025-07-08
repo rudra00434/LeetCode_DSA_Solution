@@ -35,6 +35,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 <p><strong>Follow up:</strong></p>
 
 <ul>
-	<li>Try to come up with as many solutions as you can. There are at least <strong>three</strong> different ways to solve this problem.</li>
+	<li>Try to come up with as many solutions as you can. There are at least <strong>three</strong> different ways to solve this problem.Hint: try to use the formula : arr[(i+k)% len(nums)]=nums[i])
+	</li>
 	<li>Could you do it in-place with <code>O(1)</code> extra space?</li>
 </ul>
