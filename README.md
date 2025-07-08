@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0050-powx-n](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
