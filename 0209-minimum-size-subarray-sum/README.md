@@ -28,13 +28,24 @@
 we use two pointers to create a "window" that slides over the data to maintain a running condition (like sum, unique elements, etc.)
 When to Use Sliding Window?
 Use it when:
-
 You're dealing with contiguous subarrays/substrings.
-
 You want to optimize brute force that checks all possible subarrays.
-
 You want to maintain some property within a window as it slides.
-	</strong>
+Types
+✅ 1. Fixed-size Window
+Window size is constant.
+You slide the window forward one element at a time.
+
+✅ 2. Variable-size Window
+Window size grows or shrinks based on some condition.
+Common in problems involving substrings with constraints (e.g., longest substring with K distinct characters).
+
+The logic behind the Problem :
+take a window = 0 ; and two loop counter variables right =0 ; left =0;
+<li>iterate from &lt;=0 &lt;=nums.length</li>
+
+
+</strong>
 </pre>
 
 
