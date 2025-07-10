@@ -39,10 +39,9 @@ You slide the window forward one element at a time.
 ✅ 2. Variable-size Window
 Window size grows or shrinks based on some condition.
 Common in problems involving substrings with constraints (e.g., longest substring with K distinct characters).
-
 The logic behind the Problem :
 take a window = 0 ; and two loop counter variables right =0 ; left =0;
-<li>iterate from &lt;=0 &lt;=nums.length</li>
+<li>iterate from 0 &lt;=nums.length</li>
 
 
 </strong>
