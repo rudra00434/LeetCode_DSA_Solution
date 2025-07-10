@@ -24,7 +24,7 @@
 </pre>
 <p><strong class="Approach">Sliding window:</strong></p>
 <pre>
-	<strong></strong>
+	<strong>this is the actual approach of this problem.Instead of using nested loops (which leads to O(n²) time complexity), we use two pointers to create a "window" that slides over the data to maintain a running condition (like sum, unique elements, etc.)</strong>
 </pre>
 
 
