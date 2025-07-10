@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
