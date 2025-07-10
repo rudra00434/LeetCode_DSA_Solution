@@ -40,8 +40,7 @@ You slide the window forward one element at a time.
 Window size grows or shrinks based on some condition.
 Common in problems involving substrings with constraints (e.g., longest substring with K distinct characters).
 The logic behind the Problem :
-take a window = 0 ; and two loop counter variables right =0 ; left =0; and ans = INT_MAX;
-<li>iterate right from 0 &lt;=nums.length</li> and count the sum window+=nums[right];
+take a window = 0 ; and two loop counter variables right =0 ; left =0; and ans = INT_MAX;<li>iterate right from 0 &lt;=nums.length</li> and count the sum window+=nums[right];
 Iterate loop to check whether window >= target if true then upadate ans = minimum(ans,right-left+1) and window -= nums[left++];
 then return ans;
 
