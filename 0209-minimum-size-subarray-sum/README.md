@@ -24,8 +24,16 @@
 </pre>
 <p><strong class="Approach">Sliding window:</strong></p>
 <pre>
-	<strong>this is the actual approach of this problem.
-Instead of using nested loops (which leads to O(n²) time complexity), we use two pointers to create a "window" that slides over the data to maintain a running condition (like sum, unique elements, etc.)</strong>
+	<strong>this is the actual approach of this problem.Instead of using nested loops (which leads to O(n²) time complexity), we use two pointers to create a "window" that slides over the data to maintain a running condition (like sum, unique elements, etc.)
+When to Use Sliding Window?
+Use it when:
+
+You're dealing with contiguous subarrays/substrings.
+
+You want to optimize brute force that checks all possible subarrays.
+
+You want to maintain some property within a window as it slides.
+	</strong>
 </pre>
 
 
