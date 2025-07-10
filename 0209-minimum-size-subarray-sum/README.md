@@ -22,7 +22,10 @@
 <strong>Input:</strong> target = 11, nums = [1,1,1,1,1,1,1,1]
 <strong>Output:</strong> 0
 </pre>
-<p>strong class = "Approach">Sliding window:</strong></p>
+<p><strong class="Approach">Sliding window:</strong></p>
+<pre>
+	<strong></strong>
+</pre>
 
 
 <p>&nbsp;</p>
