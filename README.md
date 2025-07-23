@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |
