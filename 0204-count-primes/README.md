@@ -29,7 +29,7 @@
 <ul>
 	<li><code>0 &lt;= n &lt;= 5 * 10<sup>6</sup></code></li>
 </ul>
-<h2>APPROACH:Sieve of Eratosthenes Algorithm with 0(n*log(log(n)))</h2>
+<h2>APPROACH : Sieve of Eratosthenes Algorithm with 0(n*log(log(n)))</h2>
 <p><strong class = "Sieve of Eratosthenes"> </p>
 <p>The Sieve of Eratosthenes is a classical algorithm to find all prime numbers up to a given number n efficiently. It works by repeatedly marking the multiples of each prime starting from 2.
 Algorithm Steps
