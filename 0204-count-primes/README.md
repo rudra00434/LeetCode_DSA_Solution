@@ -29,3 +29,39 @@
 <ul>
 	<li><code>0 &lt;= n &lt;= 5 * 10<sup>6</sup></code></li>
 </ul>
+<h2>APPROACH:Sieve of Eratosthenes![Sieve+of+Eratosthenes](https://github.com/user-attachments/assets/0e1b0ce3-44c4-411d-967d-5939d3f8a0aa)
+![Sieve+of+Eratosthenes](https://github.com/user-attachments/assets/9bac0132-87d3-4b7d-93fc-5d199fc74cac)
+ </h2>
+<p><strong class = "Sieve of Eratosthenes"> </p>
+<p>The Sieve of Eratosthenes is a classical algorithm to find all prime numbers up to a given number n efficiently. It works by repeatedly marking the multiples of each prime starting from 2.
+
+Algorithm Steps
+Create a list (or boolean array) of size n + 1 (from 0 to n), initialized as true (assuming all numbers are prime).
+
+Index 0 and 1 are marked as false because 0 and 1 are not prime.
+
+Start with the first prime number p = 2.
+
+Mark all multiples of p (starting from p * p) as false (not prime) because any number divisible by p is composite.
+
+Find the next number greater than p that is still marked true.
+This becomes the new p.
+
+Repeat steps 3–4 until p * p > n.
+
+The remaining numbers marked true are primes.
+
+Example (n = 30)
+Start:
+2, 3, 4, 5, 6, 7, 8, ... 30 (all marked prime initially)
+
+Start with 2 → mark 4, 6, 8, ... 30 as composite.
+
+Next prime is 3 → mark 9, 12, 15, ... 30 as composite.
+
+Next prime is 5 → mark 25, 30 as composite.
+
+Next prime is 7 → 7 * 7 = 49 > 30, stop.
+
+Remaining primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
+</p>
