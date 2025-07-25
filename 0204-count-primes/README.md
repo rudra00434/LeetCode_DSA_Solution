@@ -51,4 +51,51 @@ Next prime is 5 → mark 25, 30 as composite.
 Next prime is 7 → 7 * 7 = 49 > 30, stop.
 Remaining primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.
 </p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F17701135%2F&psig=AOvVaw3h7WRjQbif6_8Pu2AkBspd&ust=1753566317000000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDl8N792I4DFQAAAAAdAAAAABAE" alt="sieve of Eratosthenes" >
+<p><strong class="Simple code using Boolean Array">Code:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 10
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> <p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 10
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> import java.util.*;
+
+public class Sieve {
+    public static void main(String[] args) {
+        int n = 100; // change as needed
+        List<Integer> primes = sieve(n);
+        System.out.println(primes);
+    }
+
+    // O(n log log n) time, O(n) space
+    public static List<Integer> sieve(int n) {
+        boolean[] isComposite = new boolean[n + 1]; // false = prime candidate
+        List<Integer> primes = new ArrayList<>();
+
+        if (n < 2) return primes;
+
+        for (int p = 2; p * p <= n; p++) {
+            if (!isComposite[p]) {
+                // start from p*p to avoid re-marking smaller multiples
+                for (int multiple = p * p; multiple <= n; multiple += p) {
+                    isComposite[multiple] = true;
+                }
+            }
+        }
+
+        for (int i = 2; i <= n; i++) {
+            if (!isComposite[i]) primes.add(i);
+        }
+        return primes;
+    }
+}
+
+</pre>
+
+</pre>
+
+
+<img width = 500px height = 300px src="https://github.com/user-attachments/assets/adf9d8e6-fe66-4b25-a9e6-57122e4f9732" >
