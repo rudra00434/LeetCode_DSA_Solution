@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
@@ -44,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
