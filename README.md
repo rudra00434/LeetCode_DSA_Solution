@@ -19,6 +19,7 @@
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
+| [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 <!---LeetCode Topics End-->
