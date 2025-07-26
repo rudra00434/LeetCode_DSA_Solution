@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0020-valid-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
