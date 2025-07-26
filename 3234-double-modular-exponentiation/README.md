@@ -41,3 +41,9 @@ Therefore we return [] as the answer.
 	<li><code>1 &lt;= a<sub>i</sub>, b<sub>i</sub>, c<sub>i</sub>, m<sub>i</sub> &lt;= 10<sup>3</sup></code></li>
 	<li><code><font face="monospace">0 &lt;= target &lt;= 10<sup>3</sup></font></code></li>
 </ul>
+<img width="1000" height="803" alt="Beats 100.00%" src="https://github.com/user-attachments/assets/51c53ef6-0545-42d9-bc04-75790693e45f" />
+
+
+<img width ="900px" height = "800px" alt ="Space complexity O(1)" src="https://github.com/user-attachments/assets/121a769d-334d-4d71-a9e1-18de2ef7821e" />
+
+
