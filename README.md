@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
