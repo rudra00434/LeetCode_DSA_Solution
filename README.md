@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0283-move-zeroes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | [0089-gray-code](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 ## Two Pointers
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
